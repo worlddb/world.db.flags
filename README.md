@@ -1,7 +1,6 @@
-world.db.flags
-==============
+# world.db.flags
 
-worlddb-flags gem - country flags (24x24, 32x32, 48x48, 64x64) bundled into gem for reuse w/ asset pipeline
+worlddb-flags gem - country flags (24x24, 32x32, 48x48, 64x64) bundled for reuse w/ asset pipeline
 
 * home  :: [github.com/geraldb/world.db.flags](https://github.com/geraldb/world.db.flags)
 * bugs  :: [github.com/geraldb/world.db.flags/issues](https://github.com/geraldb/world.db.flags/issues)
