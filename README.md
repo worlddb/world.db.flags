@@ -14,5 +14,4 @@ TBD
 
 ## Alternatives
 
-- (world-flags gem)[http://rubygems.org/gems/world-flags] - use world flag icons in your Rails app
-
+- [world-flags gem](http://rubygems.org/gems/world-flags) - use world flag icons in your Rails app
